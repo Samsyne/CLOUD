@@ -7,10 +7,10 @@ This project is designed for deploying and managing cloud-based applications.
 ![Initiating the server](H.focus\IMAGES\screenshot\gaining access to instance.png)
 
 ## 2. Making the server NGINX-enabled
-![Making the server NGINX-enabled](IMAGES/screenshot/initiate_nginx_server.png)
+![Making the server NGINX-enabled](/initiate%20nginx%20server.pngIMAGES/screenshot/initiate_nginx_server.png)
 
 ## 3. Configuring the server name
-![Configuring the server name](IMAGES/screenshot/configuring_server_name.png)
+![Configuring the server name]("IMAGES/screenshot/configuring_server_name.png")
 
 ## 4. Changing the inbound rules to deploy to the domain name
 ![Changing the inbound rules](IMAGES/screenshot/network_rules_for_inbound.png)
@@ -21,5 +21,5 @@ This project is designed for deploying and managing cloud-based applications.
 [IP Address: 13.60.205.250](http://13.60.205.250)
 
 ## 6. Deliverable DNS
-![Fully deployed](IMAGES/screenshot/https_fully_deployed.png)
+![Fully deployed](/screenshot/https%20fully%20deployed.pngIMAGES/screenshot/https_fully_deployed.png)
 [Deliverable DNS: sammed.strangled.net](https://sammed.strangled.net)
