@@ -4,7 +4,7 @@ This project is designed for deploying and managing cloud-based applications.
 # Description
 
 ## 1. Initiating the server by loading Ubuntu from the Server and gaining SSH into the instance
-![Initiating the server](IMAGES/screenshot/gaining_access_to_instance.png)
+![Initiating the server](C:\Users\DELL\Desktop\H.focus\IMAGES\screenshot\gaining access to instance.png)
 
 ## 2. Making the server NGINX-enabled
 ![Making the server NGINX-enabled](IMAGES/screenshot/initiate_nginx_server.png)
