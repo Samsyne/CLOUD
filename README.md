@@ -7,7 +7,7 @@ This project is designed for deploying and managing cloud-based applications.
 ![Initiating the server](H.focus\IMAGES\screenshot\gaining access to instance.png)
 
 ## 2. Making the server NGINX-enabled
-![Making the server NGINX-enabled](/initiate%20nginx%20server.pngIMAGES/screenshot/initiate_nginx_server.png)
+![Making the server NGINX-enabled](/initiate%20nginx%20server.png)
 
 ## 3. Configuring the server name
 ![Configuring the server name]("IMAGES/screenshot/configuring_server_name.png")
